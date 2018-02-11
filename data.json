@@ -1,0 +1,24 @@
+{
+  "products":[
+    {
+      "id": 1,
+      "name": "Libro"
+    },
+    {
+      "id": 2,
+      "name": "Tablet"
+    },
+    {
+      "id": 3,
+      "name": "Musica"
+    },
+    {
+      "id": 4,
+      "name": "Pez"
+    },
+    {
+      "id": 5,
+      "name": "Chocas"
+    }
+  ]
+}
